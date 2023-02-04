@@ -1,0 +1,13 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-logo {
+    width: 110px;
+    height: 100px;
+}
+
+.font-Anton {
+    font-family: 'Anton', sans-serif;
+}
